@@ -18,8 +18,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Byte-Grain/nocobase-plugin-ding-talk.git",
-    "directory": "packages/plugins/nocobase-plugin-ding-talk"
+    "url": "https://github.com/Byte-Grain/nocobase-plugin-dingtalk.git",
+    "directory": "packages/plugins/nocobase-plugin-dingtalk"
   },
   "main": "dist/server/index.js",
   "files": [
