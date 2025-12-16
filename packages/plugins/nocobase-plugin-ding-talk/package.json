@@ -1,10 +1,10 @@
 {
-  "name": "nocobase-plugin-ding-talk",
-  "version": "0.2.0",
+  "name": "nocobase-plugin-dingtalk",
+  "version": "1.9.0",
   "displayName": "DingTalk",
-  "displayName.zh-CN": "钉钉",
-  "description": "Integrated DingTalk, including login and robot functions",
-  "description.zh-CN": "集成钉钉，包含登录及机器人等功能",
+  "displayName.zh-CN": "钉钉登录",
+  "description": "Integrated DingTalk login function",
+  "description.zh-CN": "集成钉钉登录功能",
   "keywords": [
     "plugin",
     "钉钉",
@@ -13,12 +13,12 @@
     "nocobase"
   ],
   "author": {
-    "name": "ruanjf",
-    "email": "runjf@qq.com"
+    "name": "不就订个外卖么",
+    "email": "yeclimeric@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ruanjf/nocobase-plugins.git",
+    "url": "https://github.com/Byte-Grain/nocobase-plugin-ding-talk.git",
     "directory": "packages/plugins/nocobase-plugin-ding-talk"
   },
   "main": "dist/server/index.js",
